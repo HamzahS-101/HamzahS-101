@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a DevOps engineer working across cloud infrastructure, automation, and CI/CD. This repo includes a mix of finished projects and things I'm still building. Right now, I’m focused on an end-to-end EKS setup using Terraform, Helm and Argo CD.
+I'm a DevOps engineer working across cloud infrastructure, automation, and CI/CD. This repo includes a mix of finished projects and things I'm still building. Right now, I’m focused on an end-to-end EKS project using Terraform, Helm and Argo CD.
 
 
 ## 🌐 Socials:
